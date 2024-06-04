@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+}
+
+.meme {
+  margin-top: 140px;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+img {
+  border: 10px solid white;
+}
